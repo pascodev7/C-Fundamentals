@@ -1,0 +1,10 @@
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Operators\obj\Debug\netcoreapp3.1\Operators.pdb

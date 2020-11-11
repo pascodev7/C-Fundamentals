@@ -1,0 +1,11 @@
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\bin\Debug\netcoreapp3.1\CSharpClasses.exe
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\bin\Debug\netcoreapp3.1\CSharpClasses.deps.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\bin\Debug\netcoreapp3.1\CSharpClasses.runtimeconfig.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\bin\Debug\netcoreapp3.1\CSharpClasses.runtimeconfig.dev.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\bin\Debug\netcoreapp3.1\CSharpClasses.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\bin\Debug\netcoreapp3.1\CSharpClasses.pdb
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\obj\Debug\netcoreapp3.1\CSharpClasses.csprojAssemblyReference.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\obj\Debug\netcoreapp3.1\CSharpClasses.AssemblyInfoInputs.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\obj\Debug\netcoreapp3.1\CSharpClasses.AssemblyInfo.cs
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\obj\Debug\netcoreapp3.1\CSharpClasses.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\CSharpClasses\obj\Debug\netcoreapp3.1\CSharpClasses.pdb

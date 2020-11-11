@@ -1,0 +1,11 @@
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\Variables\obj\Debug\netcoreapp3.1\Variables.pdb

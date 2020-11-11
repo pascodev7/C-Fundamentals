@@ -1,0 +1,11 @@
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csprojAssemblyReference.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb

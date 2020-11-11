@@ -1,0 +1,11 @@
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.exe
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.deps.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.runtimeconfig.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.runtimeconfig.dev.json
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\bin\Debug\netcoreapp3.1\ArrayExample.pdb
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.csprojAssemblyReference.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.AssemblyInfoInputs.cache
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.AssemblyInfo.cs
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.dll
+C:\Users\PASCODEV\Desktop\CSharpFundamentals\ArrayExample\obj\Debug\netcoreapp3.1\ArrayExample.pdb
